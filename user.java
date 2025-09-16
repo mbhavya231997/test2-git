@@ -1,0 +1,6 @@
+Class User{
+
+    public User(){
+        
+    }
+}
